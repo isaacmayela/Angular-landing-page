@@ -1,0 +1,7 @@
+.landing-header{
+  display: flex;
+}
+
+.landing-header img{
+  width: 5em;
+}
