@@ -1,5 +1,6 @@
 .landing-header{
   display: flex;
+  margin-bottom: 3em;
 }
 
 .landing-header img{
