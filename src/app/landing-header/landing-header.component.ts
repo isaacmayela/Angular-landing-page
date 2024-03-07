@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
+import { NavigationsComponent } from '../navigations/navigations.component';
 
 
 @Component({
   selector: 'app-landing-header',
   standalone: true,
-  imports: [],
+  imports: [NavigationsComponent],
   templateUrl: './landing-header.component.html',
   styleUrl: './landing-header.component.css'
 })
